@@ -1,0 +1,21 @@
+.textarea {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: white;
+    border-radius: 30px;
+    padding-bottom: 60%;
+    border-color: darkcyan;
+
+}
+::-webkit-input-placeholder {
+    color: cadetblue;
+    text-align: center;
+}
+.container2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+}
